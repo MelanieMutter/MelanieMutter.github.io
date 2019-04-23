@@ -1,0 +1,53 @@
+body {
+  text-align: center;
+  background-color: rgba(82, 136, 53, 0.2);
+ }
+
+ .cv {
+  text-align: center;
+  font-style: normal;
+  background-color: white;
+  border-radius: 75px;
+  border: 1px solid #A2CE8A;
+  width: 80vw;
+  margin: auto;
+  padding: 35px;
+  margin-top: 20px;
+}
+
+h1 {
+  color: green;
+  font-size: 75px;
+}
+
+h2 {
+  color: purple;
+  font-size: 45px;
+}
+
+#cat {
+display: center;
+width: 35vw;
+border-radius: 75%;
+  }
+p {
+color: orange;
+font-style: italic;
+}
+
+.fab {
+text-align: center;
+font-size: 45px;
+color: blue;
+width: 35vw;
+} 
+
+ul {
+  list-style:none;
+}
+
+img {
+display: center;
+width: 30vw;
+ border-radius: 50px;
+}
